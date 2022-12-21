@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<micmac>
+  <name>PROSPECTIVA U SANTOTO</name>
+  <matrix size="1">
+    <row>
+      <col>0</col>
+    </row>
+  </matrix>
+  <variables>
+    <var>
+      <longlabel>Debilidades en el uso de equipos de alta tecnologia</longlabel>
+      <shortlabel>&gt;Deusoeqat</shortlabel>
+      <description>Hay restricciones en el uso de los equipos.</description>
+      <theme>DEBILIDAD</theme>
+    </var>
+  </variables>
+  <calcul>
+    <iterations>2</iterations>
+    <zerovalue>0</zerovalue>
+    <onevalue>1</onevalue>
+    <twovalue>2</twovalue>
+    <threevalue>3</threevalue>
+    <fourvalue>3</fourvalue>
+  </calcul>
+</micmac>
